@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricseelete",
+        "uuid": 26707926,
+        "checksum": "mzqip"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
